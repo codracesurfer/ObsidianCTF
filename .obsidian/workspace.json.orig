@@ -1,0 +1,296 @@
+{
+  "main": {
+    "id": "892304d5a8ed3ae8",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7b0a19ab8fa5b3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f82f834d47557228",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CTF/Crypto.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0310e1ffc08b098f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTB/Windows.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+<<<<<<< HEAD
+            "id": "a15c8be13e9ae3ff",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+=======
+            "id": "f82f834d47557228",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CTF/Crypto.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0310e1ffc08b098f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTB/Windows.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a15c8be13e9ae3ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTB/Windows.md",
+                "mode": "source",
+                "source": false
+              }
+>>>>>>> 8571a3df66213fd1b91e8d45337acb2da7d58e39
+            }
+          },
+          {
+            "id": "8e71e6b4ef2b0091",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pwn/Pwn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+<<<<<<< HEAD
+        "currentTab": 2
+=======
+        "currentTab": 4
+>>>>>>> 8571a3df66213fd1b91e8d45337acb2da7d58e39
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5d1cf24d2b441587",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca3c82ba34f22f38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbf95a33587b2678",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "93f2fb7454cda5be",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4b0fda5271edb47a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "58e1be5c243a77d2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 262.5
+  },
+  "right": {
+    "id": "7ad4ae946e742e5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "744eb8ed231ae959",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ecd4ae7ba07dd15",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+<<<<<<< HEAD
+=======
+                "file": "HTB/Windows.md",
+>>>>>>> 8571a3df66213fd1b91e8d45337acb2da7d58e39
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "88db3c18421f2bbd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+<<<<<<< HEAD
+=======
+                "file": "HTB/Windows.md",
+>>>>>>> 8571a3df66213fd1b91e8d45337acb2da7d58e39
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b7c47eba1483cf28",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a886700c0c8f5fba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+<<<<<<< HEAD
+              "state": {}
+=======
+              "state": {
+                "file": "HTB/Windows.md"
+              }
+>>>>>>> 8571a3df66213fd1b91e8d45337acb2da7d58e39
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a15c8be13e9ae3ff",
+  "lastOpenFiles": [
+    "Git.md",
+    "HTB/Recon.md",
+    "HTB/Windows.md",
+<<<<<<< HEAD
+    "Docker-DESKTOP-8NOPBRD.md",
+=======
+    "Powershell.md",
+    "Docker.md",
+    "General.md",
+    "Git.md",
+    "CTF/Crypto.md",
+    "CTF/Forensics.md",
+    "CTF",
+    "Pwn/Heap.md",
+    "HeapLAB+Bible+Black+on+White.pdf.md",
+    "HTB/General.md",
+    "HTB/Privilege Escalation.md",
+    "CTF/Misc.md",
+    "HTB/Shell.md",
+    "CTF/Web.md",
+    "Pwn/ROP.md",
+    "Pwn/Pwn.md",
+    "CTF/Stego.md",
+    "CTF/Reversing.md",
+    "HTB",
+    "Docker",
+>>>>>>> 8571a3df66213fd1b91e8d45337acb2da7d58e39
+    "Embed_Files/HeapLAB+Bible+Black+on+White.pdf",
+    "Crypto.md",
+    "Forensics.md",
+    "Misc.md",
+    "Reversing.md",
+    "Stego.md",
+    "Web.md",
+    "General-DESKTOP-8NOPBRD.md",
+    "Pwn/Pwn-DESKTOP-8NOPBRD.md",
+    "Pwn/Heap-DESKTOP-8NOPBRD.md",
+    "HTB/Shell-DESKTOP-8NOPBRD.md",
+    "HTB/General-DESKTOP-8NOPBRD.md",
+    "Powershell-DESKTOP-8NOPBRD.md",
+    "Pwn/ROP-DESKTOP-8NOPBRD.md",
+    "HTB/Recon-DESKTOP-8NOPBRD.md",
+    "Powershell.md",
+    "Docker.md",
+    "General.md",
+    "CTF/Crypto.md",
+    "CTF/Forensics.md",
+    "CTF",
+    "Pwn/Heap.md",
+    "HeapLAB+Bible+Black+on+White.pdf.md",
+    "HTB",
+    "Docker",
+    "Embed_Files/sql_injection_insert.pdf"
+  ]
+}

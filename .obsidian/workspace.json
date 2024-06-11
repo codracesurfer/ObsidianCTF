@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "892304d5a8ed3ae8",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe8f92d0e9215c34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e03d5db195142da9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTB/Windows/PrivEsc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5d1cf24d2b441587",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca3c82ba34f22f38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbf95a33587b2678",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "93f2fb7454cda5be",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "flask",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4b0fda5271edb47a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "58e1be5c243a77d2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 296.5
+  },
+  "right": {
+    "id": "7ad4ae946e742e5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "744eb8ed231ae959",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ecd4ae7ba07dd15",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "HTB/Windows/PrivEsc.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "88db3c18421f2bbd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "HTB/Windows/PrivEsc.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b7c47eba1483cf28",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a886700c0c8f5fba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "HTB/Windows/PrivEsc.md"
+              }
+            }
+          },
+          {
+            "id": "41b21a8661c1b756",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "f9a5f5c5b61cef12",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e03d5db195142da9",
+  "lastOpenFiles": [
+    "CTF/Web.md",
+    "CTF/Forensics.md",
+    "HTB/Windows/Techniques/ADCS - Active Directory Certificate Service.md",
+    "HTB/Windows/Techniques/LAPS - Local Administrator Password Solution.md",
+    "Pwn/Pwn.md",
+    "CTF/Stego.md",
+    "Pwn/ROP.md",
+    "Other/Docker.md",
+    "Other/WSL2.md",
+    "Other/Powershell.md",
+    "Other/General.md",
+    "CTF/Reversing.md",
+    "Other/Git.md",
+    "CTF/Crypto.md",
+    "Pwn/File Struct Exploits.md",
+    "Pwn/Format String.md",
+    "Pwn/Heap.md",
+    "HTB/Linux/Shell.md",
+    "HTB/Web.md",
+    "HTB/Linux/PrivEsc.md",
+    "HTB/Recon.md",
+    "HTB/Windows/PrivEsc.md",
+    "HTB/ProLabs/Offshore/172.16.1.30 MS01.md",
+    "HTB/Windows/Active Directory Recon.md",
+    "HTB/Filetransfer.md",
+    "HTB/ProLabs/Offshore/172.16.1.201.md",
+    "HTB/ProLabs/Offshore",
+    "HTB/ProLabs/Dante",
+    "HTB/ProLabs/Zephyr",
+    "HTB/ProLabs",
+    "Embed_Files/HeapLAB_Bible.pdf",
+    "Embed_Files/HeapLAB+Bible+Black+on+White.pdf",
+    "Pasted image 20231020143822.png",
+    "Pasted image 20231020141634.png",
+    "Pasted image 20231020143741.png",
+    "Pasted image 20231023232012.png",
+    "Pasted image 20231020153512.png",
+    "Pasted image 20231024000947.png",
+    "Pasted image 20231023234300.png",
+    "Pasted image 20231023234234.png",
+    "Pasted image 20231023233604.png",
+    "Pasted image 20231020220857.png",
+    "Pentest/Eksamen/Nettside Port443/SQL Injection",
+    "Pentest/Eksamen/Nettside Port443",
+    "Pentest/Eksamen",
+    "HTB/Forttresses/Jet"
+  ]
+}
