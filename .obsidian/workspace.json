@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/Windows/PrivEsc.md",
+                "file": "Pwn/Windows.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTB/Windows/PrivEsc.md",
+                "file": "Pwn/Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTB/Windows/PrivEsc.md",
+                "file": "Pwn/Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTB/Windows/PrivEsc.md"
+                "file": "Pwn/Windows.md"
               }
             }
           },
@@ -158,7 +158,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -166,24 +166,36 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "e03d5db195142da9",
   "lastOpenFiles": [
+    "HTB/Linux/PrivEsc.md",
+    "Pwn/Windows.md",
+    "HTB/Linux/Shell.md",
+    "HTB/Recon.md",
+    "HTB/Metasploit.md",
+    "HTB/Filetransfer.md",
+    "HTB/Tools.md",
+    "HTB/Web.md",
+    "Pwn/Format String.md",
+    "Pwn/File Struct Exploits.md",
+    "Pwn/Heap.md",
+    "Pwn/ROP.md",
+    "Pwn/Pwn.md",
+    "HTB/Windows/PrivEsc.md",
     "CTF/Web.md",
     "CTF/Forensics.md",
     "HTB/Windows/Techniques/ADCS - Active Directory Certificate Service.md",
     "HTB/Windows/Techniques/LAPS - Local Administrator Password Solution.md",
-    "Pwn/Pwn.md",
     "CTF/Stego.md",
-    "Pwn/ROP.md",
     "Other/Docker.md",
     "Other/WSL2.md",
     "Other/Powershell.md",
@@ -191,18 +203,6 @@
     "CTF/Reversing.md",
     "Other/Git.md",
     "CTF/Crypto.md",
-    "Pwn/File Struct Exploits.md",
-    "Pwn/Format String.md",
-    "Pwn/Heap.md",
-    "HTB/Linux/Shell.md",
-    "HTB/Web.md",
-    "HTB/Linux/PrivEsc.md",
-    "HTB/Recon.md",
-    "HTB/Windows/PrivEsc.md",
-    "HTB/ProLabs/Offshore/172.16.1.30 MS01.md",
-    "HTB/Windows/Active Directory Recon.md",
-    "HTB/Filetransfer.md",
-    "HTB/ProLabs/Offshore/172.16.1.201.md",
     "HTB/ProLabs/Offshore",
     "HTB/ProLabs/Dante",
     "HTB/ProLabs/Zephyr",
