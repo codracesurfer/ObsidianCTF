@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "892304d5a8ed3ae8",
+    "type": "split",
+    "children": [
+      {
+        "id": "0bd0bb5b0d6de9c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e64f1d201998ffd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5d1cf24d2b441587",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca3c82ba34f22f38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbf95a33587b2678",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "93f2fb7454cda5be",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "flask",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4b0fda5271edb47a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "58e1be5c243a77d2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 296.5
+  },
+  "right": {
+    "id": "7ad4ae946e742e5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "744eb8ed231ae959",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ecd4ae7ba07dd15",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "88db3c18421f2bbd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b7c47eba1483cf28",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a886700c0c8f5fba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "41b21a8661c1b756",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "f9a5f5c5b61cef12",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "7e64f1d201998ffd",
+  "lastOpenFiles": [
+    "Other/Docker.md",
+    "Other/Powershell.md",
+    "Other/General.md",
+    "Other/Git.md",
+    "Other/WSL2.md",
+    "Pwn/ROP.md",
+    "Pwn/Pwn.md",
+    "Pwn/Heap.md",
+    "Pwn/Format String.md",
+    "Pwn/File Struct Exploits.md",
+    "Pwn/Windows.md",
+    "CTF/Web.md",
+    "CTF/Stego.md",
+    "CTF/Reversing.md",
+    "CTF/OSINT.md",
+    "CTF/Misc.md",
+    "CTF/Forensics.md",
+    "CTF/Crypto.md",
+    "HTB/Linux/PrivEsc.md",
+    "HTB/Linux/Shell.md",
+    "HTB/Recon.md",
+    "HTB/Metasploit.md",
+    "HTB/Filetransfer.md",
+    "HTB/Tools.md",
+    "HTB/Web.md",
+    "HTB/Windows/PrivEsc.md",
+    "HTB/ProLabs/Offshore",
+    "HTB/ProLabs/Dante",
+    "HTB/ProLabs/Zephyr",
+    "HTB/ProLabs",
+    "Embed_Files/HeapLAB_Bible.pdf",
+    "Embed_Files/HeapLAB+Bible+Black+on+White.pdf",
+    "Pasted image 20231020143822.png",
+    "Pasted image 20231020141634.png",
+    "Pasted image 20231020143741.png",
+    "Pasted image 20231023232012.png",
+    "Pasted image 20231020153512.png",
+    "Pasted image 20231024000947.png",
+    "Pasted image 20231023234300.png",
+    "Pasted image 20231023234234.png",
+    "Pasted image 20231023233604.png",
+    "Pasted image 20231020220857.png",
+    "Pentest/Eksamen/Nettside Port443/SQL Injection",
+    "Pentest/Eksamen/Nettside Port443",
+    "Pentest/Eksamen",
+    "HTB/Forttresses/Jet"
+  ]
+}
