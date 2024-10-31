@@ -11,11 +11,26 @@
             "id": "a15e5edb87aec51b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Pwn/Heap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee9fc2897205f118",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Embed_Files/HeapLAB_Bible.pdf"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pwn/File Struct Exploits.md",
+                "file": "Embed_Files/HeapLAB_Bible.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pwn/File Struct Exploits.md",
+                "file": "Embed_Files/HeapLAB_Bible.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pwn/File Struct Exploits.md"
+                "file": "Embed_Files/HeapLAB_Bible.pdf"
               }
             }
           },
@@ -171,8 +186,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cbf95a33587b2678",
+  "active": "ee9fc2897205f118",
   "lastOpenFiles": [
+    "Pwn/Heap.md",
     "CTF/Stego.md",
     "CTF/Web.md",
     "CTF/Misc.md",
@@ -184,7 +200,6 @@
     "Other/WSL2.md",
     "Pwn/ROP.md",
     "Pwn/Pwn.md",
-    "Pwn/Heap.md",
     "Pwn/Format String.md",
     "Pwn/File Struct Exploits.md",
     "Pwn/Windows.md",
