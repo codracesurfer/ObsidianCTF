@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c3dc121e6aa710f9",
+        "id": "3ee92f7c13d825a0",
         "type": "tabs",
         "children": [
           {
-            "id": "a15e5edb87aec51b",
+            "id": "93d0305eec7ecfd2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ee9fc2897205f118",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Embed_Files/HeapLAB_Bible.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embed_Files/HeapLAB_Bible.pdf",
+                "file": "Pwn/Heap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embed_Files/HeapLAB_Bible.pdf",
+                "file": "Pwn/Heap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Embed_Files/HeapLAB_Bible.pdf"
+                "file": "Pwn/Heap.md"
               }
             }
           },
@@ -186,9 +175,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ee9fc2897205f118",
+  "active": "93d0305eec7ecfd2",
   "lastOpenFiles": [
     "Pwn/Heap.md",
+    "Embed_Files/HeapLAB_Bible.pdf",
     "CTF/Stego.md",
     "CTF/Web.md",
     "CTF/Misc.md",
@@ -213,12 +203,10 @@
     "HTB/Filetransfer.md",
     "HTB/Tools.md",
     "HTB/Web.md",
-    "HTB/Windows/PrivEsc.md",
     "HTB/ProLabs/Offshore",
     "HTB/ProLabs/Dante",
     "HTB/ProLabs/Zephyr",
     "HTB/ProLabs",
-    "Embed_Files/HeapLAB_Bible.pdf",
     "Embed_Files/HeapLAB+Bible+Black+on+White.pdf",
     "Pasted image 20231020143822.png",
     "Pasted image 20231020141634.png",

