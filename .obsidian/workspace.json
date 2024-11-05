@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pwn/Heap.md",
+                "file": "CTF/Web.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "flask",
+                "query": "sliver",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pwn/Heap.md",
+                "file": "CTF/Web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pwn/Heap.md",
+                "file": "CTF/Web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pwn/Heap.md"
+                "file": "CTF/Web.md"
               }
             }
           },
@@ -177,29 +177,30 @@
   },
   "active": "93d0305eec7ecfd2",
   "lastOpenFiles": [
+    "HTB/Windows/PrivEsc.md",
+    "HTB/Linux/Shell.md",
+    "HTB/Linux/PrivEsc.md",
+    "HTB/Metasploit.md",
+    "HTB/Recon.md",
+    "CTF/Crypto.md",
+    "Pwn/Format String.md",
+    "Pwn/Pwn.md",
     "Pwn/Heap.md",
     "Embed_Files/HeapLAB_Bible.pdf",
     "CTF/Stego.md",
     "CTF/Web.md",
     "CTF/Misc.md",
-    "CTF/Crypto.md",
     "Other/Docker.md",
     "Other/Powershell.md",
     "Other/General.md",
     "Other/Git.md",
     "Other/WSL2.md",
     "Pwn/ROP.md",
-    "Pwn/Pwn.md",
-    "Pwn/Format String.md",
     "Pwn/File Struct Exploits.md",
     "Pwn/Windows.md",
     "CTF/Reversing.md",
     "CTF/OSINT.md",
     "CTF/Forensics.md",
-    "HTB/Linux/PrivEsc.md",
-    "HTB/Linux/Shell.md",
-    "HTB/Recon.md",
-    "HTB/Metasploit.md",
     "HTB/Filetransfer.md",
     "HTB/Tools.md",
     "HTB/Web.md",
