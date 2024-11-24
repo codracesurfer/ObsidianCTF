@@ -66,3 +66,53 @@ SYS 0x10 a      # Write syscall
 - It appears to be a RISC-like architecture with simple instructions
 - Memory access is register-indirect
 - System calls handle I/O operations
+
+
+Things you may want to ask/find
+
+- How many bytes is a yancode instruction?
+		1 byte
+		` printf("[I] op:%#hhx arg1:%#hhx arg2:%#hhx\n", BYTE2(a2), (unsigned __int8)a2, BYTE1(a2));`
+- Where are the instruction opcodes?
+- Where are the syscall opcodes?
+- What is the order of the instruction bytes?
+- Where is the stack?
+- Where is memory located?
+
+
+
+```c
+__int64 __fastcall interpret_instruction(unsigned __int8 *a1, __int64 a2)
+{
+  __int64 result; // rax
+
+  printf(
+    "[V] a:%#hhx b:%#hhx c:%#hhx d:%#hhx s:%#hhx i:%#hhx f:%#hhx\n",
+    a1[1024],
+    a1[1025],
+    a1[1026],
+    a1[1027],
+    a1[1028],
+    a1[1029],
+    a1[1030]);
+  printf("[I] op:%#hhx arg1:%#hhx arg2:%#hhx\n", BYTE2(a2), (unsigned __int8)a2, BYTE1(a2));
+  if ( (a2 & 0x800000) != 0 )
+    interpret_imm(a1, a2);
+  if ( (a2 & 0x20000) != 0 )
+    interpret_add(a1, a2);
+  if ( (a2 & 0x200000) != 0 )
+    interpret_stk(a1, a2);
+  if ( (a2 & 0x100000) != 0 )
+    interpret_stm(a1, a2);
+  if ( (a2 & 0x80000) != 0 )
+    interpret_ldm(a1, a2);
+  if ( (a2 & 0x400000) != 0 )
+    interpret_cmp(a1, a2);
+  if ( (a2 & 0x10000) != 0 )
+    interpret_jmp(a1, a2);
+  result = BYTE2(a2) & 4;
+  if ( (a2 & 0x40000) != 0 )
+    return interpret_sys(a1, a2);
+  return result;
+}
+```
