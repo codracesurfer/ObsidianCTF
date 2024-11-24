@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pwn/Pwn.md",
+                "file": "Pwn/Pwn.College/Reversing.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pwn/Pwn.md",
+                "file": "Pwn/Pwn.College/Reversing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pwn/Pwn.md",
+                "file": "Pwn/Pwn.College/Reversing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pwn/Pwn.md"
+                "file": "Pwn/Pwn.College/Reversing.md"
               }
             }
           },
@@ -177,6 +177,10 @@
   },
   "active": "93d0305eec7ecfd2",
   "lastOpenFiles": [
+    "Pwn/Yan85.md",
+    "Pwn/Pwn.College/Reversing.md",
+    "Pwn/Pwn.College",
+    "Pwn/Pwn.md",
     "CTF/Web.md",
     "HTB/Windows/PrivEsc.md",
     "HTB/Linux/Shell.md",
@@ -185,7 +189,6 @@
     "HTB/Recon.md",
     "CTF/Crypto.md",
     "Pwn/Format String.md",
-    "Pwn/Pwn.md",
     "Pwn/Heap.md",
     "Embed_Files/HeapLAB_Bible.pdf",
     "CTF/Stego.md",
@@ -202,8 +205,6 @@
     "CTF/OSINT.md",
     "CTF/Forensics.md",
     "HTB/Filetransfer.md",
-    "HTB/Tools.md",
-    "HTB/Web.md",
     "HTB/ProLabs/Offshore",
     "HTB/ProLabs/Dante",
     "HTB/ProLabs/Zephyr",
@@ -221,7 +222,6 @@
     "Pasted image 20231020220857.png",
     "Pentest/Eksamen/Nettside Port443/SQL Injection",
     "Pentest/Eksamen/Nettside Port443",
-    "Pentest/Eksamen",
-    "HTB/Forttresses/Jet"
+    "Pentest/Eksamen"
   ]
 }
