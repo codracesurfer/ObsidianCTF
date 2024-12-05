@@ -178,6 +178,7 @@
   "active": "93d0305eec7ecfd2",
   "lastOpenFiles": [
     "HTB/Linux/Shell.md",
+    "HTB/Recon.md",
     "HTB/Linux/PrivEsc.md",
     "Pwn/Format String.md",
     "Pwn/Pwn.md",
@@ -192,7 +193,6 @@
     "CTF/Web.md",
     "HTB/Windows/PrivEsc.md",
     "HTB/Metasploit.md",
-    "HTB/Recon.md",
     "CTF/Crypto.md",
     "Embed_Files/HeapLAB_Bible.pdf",
     "CTF/Stego.md",
