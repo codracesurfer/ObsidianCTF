@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pwn/Pwn.md",
+                "file": "CTF/Crypto.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pwn/Pwn.md",
+                "file": "CTF/Crypto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pwn/Pwn.md",
+                "file": "CTF/Crypto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pwn/Pwn.md"
+                "file": "CTF/Crypto.md"
               }
             }
           },
@@ -177,11 +177,11 @@
   },
   "active": "93d0305eec7ecfd2",
   "lastOpenFiles": [
+    "Pwn/Pwn.md",
     "HTB/Linux/Shell.md",
     "HTB/Linux/PrivEsc.md",
     "HTB/Recon.md",
     "Pwn/Format String.md",
-    "Pwn/Pwn.md",
     "Pwn/Pwn.College/Race Conditions.md",
     "Pwn/File Struct Exploits.md",
     "Pwn/Heap.md",
