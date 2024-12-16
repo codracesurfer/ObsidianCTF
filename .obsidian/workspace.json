@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTF/Crypto.md",
+                "file": "HTB/Recon.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTF/Crypto.md",
+                "file": "HTB/Recon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CTF/Crypto.md",
+                "file": "HTB/Recon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTF/Crypto.md"
+                "file": "HTB/Recon.md"
               }
             }
           },
@@ -177,9 +177,10 @@
   },
   "active": "93d0305eec7ecfd2",
   "lastOpenFiles": [
-    "Pwn/Pwn.md",
-    "HTB/Linux/Shell.md",
     "HTB/Linux/PrivEsc.md",
+    "HTB/Linux/Shell.md",
+    "CTF/Crypto.md",
+    "Pwn/Pwn.md",
     "HTB/Recon.md",
     "Pwn/Format String.md",
     "Pwn/Pwn.College/Race Conditions.md",
@@ -193,7 +194,6 @@
     "CTF/Web.md",
     "HTB/Windows/PrivEsc.md",
     "HTB/Metasploit.md",
-    "CTF/Crypto.md",
     "Embed_Files/HeapLAB_Bible.pdf",
     "CTF/Stego.md",
     "CTF/Misc.md",
