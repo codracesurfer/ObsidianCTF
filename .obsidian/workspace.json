@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/Recon.md",
+                "file": "HTB/Linux/Shell.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTB/Recon.md",
+                "file": "HTB/Linux/Shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTB/Recon.md",
+                "file": "HTB/Linux/Shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTB/Recon.md"
+                "file": "HTB/Linux/Shell.md"
               }
             }
           },
@@ -178,10 +178,10 @@
   "active": "93d0305eec7ecfd2",
   "lastOpenFiles": [
     "HTB/Linux/PrivEsc.md",
+    "HTB/Recon.md",
     "HTB/Linux/Shell.md",
     "CTF/Crypto.md",
     "Pwn/Pwn.md",
-    "HTB/Recon.md",
     "Pwn/Format String.md",
     "Pwn/Pwn.College/Race Conditions.md",
     "Pwn/File Struct Exploits.md",
