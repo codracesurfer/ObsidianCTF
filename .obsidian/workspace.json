@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pwn/Heap.md",
+                "file": "Pwn/File Struct Exploits.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pwn/Heap.md",
+                "file": "Pwn/File Struct Exploits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pwn/Heap.md",
+                "file": "Pwn/File Struct Exploits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pwn/Heap.md"
+                "file": "Pwn/File Struct Exploits.md"
               }
             }
           },
@@ -177,6 +177,7 @@
   },
   "active": "93d0305eec7ecfd2",
   "lastOpenFiles": [
+    "Pwn/Heap.md",
     "Pwn/File Struct Exploits.md",
     "Pwn/Pwn.md",
     "Pwn/Pwn.College/Race Conditions.md",
@@ -185,7 +186,6 @@
     "HTB/Recon.md",
     "CTF/Crypto.md",
     "Pwn/Format String.md",
-    "Pwn/Heap.md",
     "Pwn/Windows.md",
     "Pwn/ROP.md",
     "Pwn/Pwn.College/Yan85.md",
