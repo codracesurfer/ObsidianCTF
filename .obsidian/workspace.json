@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pwn/File Struct Exploits.md",
+                "file": "Pwn/Fuzzing/AFL++.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pwn/File Struct Exploits.md",
+                "file": "Pwn/Fuzzing/AFL++.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pwn/File Struct Exploits.md",
+                "file": "Pwn/Fuzzing/AFL++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pwn/File Struct Exploits.md"
+                "file": "Pwn/Fuzzing/AFL++.md"
               }
             }
           },
@@ -177,8 +177,10 @@
   },
   "active": "93d0305eec7ecfd2",
   "lastOpenFiles": [
-    "Pwn/Heap.md",
     "Pwn/File Struct Exploits.md",
+    "Pwn/Fuzzing/AFL++.md",
+    "Pwn/Fuzzing",
+    "Pwn/Heap.md",
     "Pwn/Pwn.md",
     "Pwn/Pwn.College/Race Conditions.md",
     "HTB/Linux/Shell.md",
@@ -204,7 +206,6 @@
     "Other/WSL2.md",
     "CTF/Reversing.md",
     "CTF/OSINT.md",
-    "CTF/Forensics.md",
     "HTB/ProLabs/Offshore",
     "HTB/ProLabs/Dante",
     "HTB/ProLabs/Zephyr",
@@ -221,7 +222,6 @@
     "Pasted image 20231023233604.png",
     "Pasted image 20231020220857.png",
     "Pentest/Eksamen/Nettside Port443/SQL Injection",
-    "Pentest/Eksamen/Nettside Port443",
-    "Pentest/Eksamen"
+    "Pentest/Eksamen/Nettside Port443"
   ]
 }
