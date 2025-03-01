@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3ee92f7c13d825a0",
+        "id": "4e55b8970c6c9c4b",
         "type": "tabs",
         "children": [
           {
-            "id": "93d0305eec7ecfd2",
+            "id": "8d055118fec31fbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pwn/Fuzzing/AFL++.md",
+                "file": "CTF/Web.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pwn/Fuzzing/AFL++.md",
+                "file": "CTF/Web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pwn/Fuzzing/AFL++.md",
+                "file": "CTF/Web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pwn/Fuzzing/AFL++.md"
+                "file": "CTF/Web.md"
               }
             }
           },
@@ -175,26 +175,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "93d0305eec7ecfd2",
+  "active": "8d055118fec31fbf",
   "lastOpenFiles": [
-    "Pwn/File Struct Exploits.md",
-    "Pwn/Fuzzing/AFL++.md",
-    "Pwn/Fuzzing",
-    "Pwn/Heap.md",
-    "Pwn/Pwn.md",
-    "Pwn/Pwn.College/Race Conditions.md",
-    "HTB/Linux/Shell.md",
-    "HTB/Linux/PrivEsc.md",
-    "HTB/Recon.md",
-    "CTF/Crypto.md",
     "Pwn/Format String.md",
-    "Pwn/Windows.md",
+    "Pwn/Pwn.md",
+    "HTB/Filetransfer.md",
+    "HTB/Web.md",
+    "HTB/Tools.md",
+    "HTB/Recon.md",
+    "HTB/Windows/PrivEsc.md",
     "Pwn/ROP.md",
+    "Pwn/Windows.md",
+    "Pwn/Heap.md",
+    "Pwn/File Struct Exploits.md",
     "Pwn/Pwn.College/Yan85.md",
     "Pwn/Pwn.College/Reversing.md",
+    "Pwn/Pwn.College/Race Conditions.md",
+    "Pwn/Fuzzing/AFL++.md",
+    "Pwn/Fuzzing",
+    "HTB/Linux/Shell.md",
+    "HTB/Linux/PrivEsc.md",
+    "CTF/Crypto.md",
     "Pwn/Pwn.College",
     "CTF/Web.md",
-    "HTB/Windows/PrivEsc.md",
     "HTB/Metasploit.md",
     "Embed_Files/HeapLAB_Bible.pdf",
     "CTF/Stego.md",
@@ -203,9 +206,6 @@
     "Other/Powershell.md",
     "Other/General.md",
     "Other/Git.md",
-    "Other/WSL2.md",
-    "CTF/Reversing.md",
-    "CTF/OSINT.md",
     "HTB/ProLabs/Offshore",
     "HTB/ProLabs/Dante",
     "HTB/ProLabs/Zephyr",
