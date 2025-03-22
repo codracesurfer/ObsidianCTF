@@ -19,7 +19,7 @@ sudo make install
 ## Compile project with AFL++
 ```
 export LLVM_CONFIG="llvm-config-14"
-CC=$HOME/AFLplusplus/afl-clang-fast CXX=$HOME/AFLplusplus/afl-clang-fast++ ./configure --prefix="$HOME/fuzzing_xpdf/install/"
+CC=/AFLplusplus/afl-clang-fast CXX=/AFLplusplus/afl-clang-fast++ ./configure --prefix="$HOME/fuzzing_xpdf/install/"
 make
 make install
 ```
