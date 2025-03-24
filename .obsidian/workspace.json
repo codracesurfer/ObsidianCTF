@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4e55b8970c6c9c4b",
+        "id": "2b13a31ea6b423ad",
         "type": "tabs",
         "children": [
           {
-            "id": "8d055118fec31fbf",
+            "id": "e4be0a25a6c686df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pwn/Fuzzing/AFL++.md",
+                "file": "HTB/Recon.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pwn/Fuzzing/AFL++.md",
+                "file": "HTB/Recon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pwn/Fuzzing/AFL++.md",
+                "file": "HTB/Recon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pwn/Fuzzing/AFL++.md"
+                "file": "HTB/Recon.md"
               }
             }
           },
@@ -175,16 +175,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8d055118fec31fbf",
+  "active": "e4be0a25a6c686df",
   "lastOpenFiles": [
-    "CTF/Web.md",
-    "Pwn/Format String.md",
-    "Pwn/Pwn.md",
+    "HTB/Windows/Active Directory Recon.md",
+    "HTB/Windows/PrivEsc.md",
+    "HTB/Recon.md",
+    "HTB/Linux/PrivEsc.md",
+    "HTB/Linux/Shell.md",
     "HTB/Filetransfer.md",
     "HTB/Web.md",
     "HTB/Tools.md",
-    "HTB/Recon.md",
-    "HTB/Windows/PrivEsc.md",
+    "HTB/Forwarding.md",
+    "HTB/ProLabs/Pivoting.md",
+    "HTB/ProLabs/P.O.O",
+    "Pwn/Fuzzing/AFL++.md",
+    "CTF/Web.md",
+    "Pwn/Format String.md",
+    "Pwn/Pwn.md",
     "Pwn/ROP.md",
     "Pwn/Windows.md",
     "Pwn/Heap.md",
@@ -192,10 +199,7 @@
     "Pwn/Pwn.College/Yan85.md",
     "Pwn/Pwn.College/Reversing.md",
     "Pwn/Pwn.College/Race Conditions.md",
-    "Pwn/Fuzzing/AFL++.md",
     "Pwn/Fuzzing",
-    "HTB/Linux/Shell.md",
-    "HTB/Linux/PrivEsc.md",
     "CTF/Crypto.md",
     "Pwn/Pwn.College",
     "HTB/Metasploit.md",
@@ -203,9 +207,6 @@
     "CTF/Stego.md",
     "CTF/Misc.md",
     "Other/Docker.md",
-    "Other/Powershell.md",
-    "Other/General.md",
-    "Other/Git.md",
     "HTB/ProLabs/Offshore",
     "HTB/ProLabs/Dante",
     "HTB/ProLabs/Zephyr",
@@ -221,7 +222,6 @@
     "Pasted image 20231023234234.png",
     "Pasted image 20231023233604.png",
     "Pasted image 20231020220857.png",
-    "Pentest/Eksamen/Nettside Port443/SQL Injection",
-    "Pentest/Eksamen/Nettside Port443"
+    "Pentest/Eksamen/Nettside Port443/SQL Injection"
   ]
 }
