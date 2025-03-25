@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2b13a31ea6b423ad",
+        "id": "c9ff6069f34ad041",
         "type": "tabs",
         "children": [
           {
-            "id": "e4be0a25a6c686df",
+            "id": "5b614c2080fe5ffb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "HTB/Recon.md",
-                "mode": "source",
-                "source": false
+                "file": "HTB/Windows/Techniques/NSA_AD_Attacks_Explained.pdf"
               }
             }
           }
@@ -48,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cdll",
+                "query": "ligolo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTB/Recon.md",
+                "file": "HTB/Windows/Techniques/NSA_AD_Attacks_Explained.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTB/Recon.md",
+                "file": "HTB/Windows/Techniques/NSA_AD_Attacks_Explained.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTB/Recon.md"
+                "file": "HTB/Windows/Techniques/NSA_AD_Attacks_Explained.pdf"
               }
             }
           },
@@ -175,38 +173,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e4be0a25a6c686df",
+  "active": "5b614c2080fe5ffb",
   "lastOpenFiles": [
-    "HTB/Windows/Active Directory Recon.md",
+    "HTB/Windows/Techniques/ADCS - Active Directory Certificate Service.md",
+    "HTB/Windows/Techniques/NSA_AD_Attacks_Explained.pdf",
+    "HTB/Windows/Techniques/Bloodhound.md",
     "HTB/Windows/PrivEsc.md",
+    "HTB/Windows/Active Directory Recon.md",
+    "HTB/ProLabs/Pivoting.md",
+    "HTB/ProLabs/Dante/Recon.md",
+    "HTB/ProLabs/Dante/172.16.1.20 (Enternalblue).md",
+    "HTB/ProLabs/Dante/172.16.1.12.md",
+    "HTB/ProLabs/Dante/172.16.1.5.md",
+    "HTB/ProLabs/Dante/10.10.110.100 (entrypoint) PWNED.md",
+    "HTB/ProLabs/Offshore/172.16.1.220 SRV01.md",
+    "HTB/ProLabs/Offshore/172.16.1.201.md",
+    "HTB/ProLabs/Offshore/172.16.1.36 WSADM.md",
+    "HTB/ProLabs/Offshore/172.16.1.24 WEB-WIN01.md",
+    "HTB/ProLabs/Offshore/172.16.1.5 DC01.md",
+    "HTB/ProLabs/Offshore/172.16.1.0 subnet.md",
+    "HTB/ProLabs/Offshore/10.10.110.123 PWNED.md",
+    "HTB/ProLabs/Zephyr/Untitled.md",
+    "HTB/Filetransfer.md",
     "HTB/Recon.md",
     "HTB/Linux/PrivEsc.md",
     "HTB/Linux/Shell.md",
-    "HTB/Filetransfer.md",
     "HTB/Web.md",
     "HTB/Tools.md",
     "HTB/Forwarding.md",
-    "HTB/ProLabs/Pivoting.md",
     "HTB/ProLabs/P.O.O",
-    "Pwn/Fuzzing/AFL++.md",
-    "CTF/Web.md",
-    "Pwn/Format String.md",
-    "Pwn/Pwn.md",
-    "Pwn/ROP.md",
-    "Pwn/Windows.md",
-    "Pwn/Heap.md",
-    "Pwn/File Struct Exploits.md",
-    "Pwn/Pwn.College/Yan85.md",
-    "Pwn/Pwn.College/Reversing.md",
-    "Pwn/Pwn.College/Race Conditions.md",
     "Pwn/Fuzzing",
-    "CTF/Crypto.md",
     "Pwn/Pwn.College",
-    "HTB/Metasploit.md",
     "Embed_Files/HeapLAB_Bible.pdf",
-    "CTF/Stego.md",
-    "CTF/Misc.md",
-    "Other/Docker.md",
     "HTB/ProLabs/Offshore",
     "HTB/ProLabs/Dante",
     "HTB/ProLabs/Zephyr",
@@ -221,7 +219,6 @@
     "Pasted image 20231023234300.png",
     "Pasted image 20231023234234.png",
     "Pasted image 20231023233604.png",
-    "Pasted image 20231020220857.png",
-    "Pentest/Eksamen/Nettside Port443/SQL Injection"
+    "Pasted image 20231020220857.png"
   ]
 }

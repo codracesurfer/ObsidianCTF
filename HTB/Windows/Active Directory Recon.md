@@ -115,3 +115,6 @@ impacket-mssqlclient -dc-ip 10.129.105.163 -port 1433 manager.htb/Operator:opera
 
 ## Techniques 
 https://hausec.com/2019/03/12/penetration-testing-active-directory-part-ii/
+
+
+## After access has been established
