@@ -16,12 +16,6 @@
 
 ```
 
-### Proxy
-```sh
-ssh metalytics@analytical.htb -L 3000:localhost:3000
-```
-
-
 ### Sql Injection
 https://perspectiverisk.com/mysql-sql-injection-practical-cheat-sheet/
 
